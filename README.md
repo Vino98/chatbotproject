@@ -2,11 +2,6 @@
 
 Chatbot made in Python using Natural Language Toolkit especially Machine Learning. Easy to Understand and Implement. Chatbot system for Final Year Project 
 
-![Live CHATBOT-2](https://user-images.githubusercontent.com/28294942/134822533-35c1e851-1dde-44d6-9113-39dff062239f.gif)
-
-
-### Youtube Explanation : https://youtu.be/tLormT06XS0
-
 ### Chatbot: 
 A chatbot is software that simulates human-like conversations with users via text messages on chat.
 
@@ -25,11 +20,6 @@ We are using Machine Learning techniques and especially Natural Language toolkit
 5. Keyword similarizartion
 6. Generating Response
 
-### LIVE CHATBOT RUNNING
-:Click to Play
-
-https://user-images.githubusercontent.com/28294942/134821805-0d593dac-0b21-4f9f-88df-eccc9539fe42.mov
-
 
 
 ### NLP:
@@ -43,23 +33,15 @@ NLP is a way for computers to analyze, understand, and derive meaning from human
 
 **You Can use this Beautiful Project for your college Project and get good marks too.**
 
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+Email me Now *vinothan@live.dk** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
  
 ### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
+⚡ Email me at **vinothan@live.dk** to get a detailed Guide report with Code to run the project with source Code.
 
 ### Need Code, Documents & Explanation video ? 
 
 ## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
+### Mail : vinothan@live.dk
 
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-### Youtube Implementation of project : https://youtu.be/tLormT06XS0
